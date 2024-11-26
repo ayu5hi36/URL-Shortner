@@ -11,7 +11,7 @@ A simple URL shortener built using Flask and SQLAlchemy. This application genera
 ## Installation
 1. Clone the repository
 
-    `git clone https://github.com/ayu5hi36/URL-Shortener.git`
+    `git clone https://github.com/ayu5hi36/URL-Shortner.git`
 
 2. Navigate to the project directory
 
