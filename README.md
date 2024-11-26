@@ -15,7 +15,7 @@ A simple URL shortener built using Flask and SQLAlchemy. This application genera
 
 2. Navigate to the project directory
 
-    `cd URL-Shortener`
+    `cd URL-Shortner`
 
 3. Create a virtual environment
 
